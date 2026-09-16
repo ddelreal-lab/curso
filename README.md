@@ -1,1 +1,1 @@
-# curso
+Ejercicios curso Fullstack
